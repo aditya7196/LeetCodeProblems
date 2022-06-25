@@ -32,7 +32,7 @@ public class BestTimeToBuyAndSellStock {
 
 
     public static void main(String[] args) {
-        int[] prices = {2,4,1};
-        int profit = maxProfitAnotherApproach(prices);
+        int[] prices = {7,1,2,3,5,6,8,2};
+        int profit = maxProfit(prices);
   }
 }
